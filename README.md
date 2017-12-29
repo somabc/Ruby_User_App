@@ -1,9 +1,7 @@
 # Ruby on Rails Tutorial sample application
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is the sample application for Ruby on Rails. To investigate Forms, DB modelling, user sign up and unit tests using Rails.
+
 
 ## License
 
@@ -37,5 +35,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+For more information, see the [Live Demo](https://powerful-hamlet-23283.herokuapp.com)
