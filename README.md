@@ -1,7 +1,9 @@
-# Ruby on Rails User application
+# Ruby on Rails Tutorial sample application
 
-This is the sample application for Ruby on Rails making use of DB modelling, user handling, forms and TDD using Rails.
-
+This is the sample application for
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Getting started
 
@@ -29,4 +31,5 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the [Live Site](https://tranquil-fortress-91742.herokuapp.com/)
+For more information, see the
+[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
