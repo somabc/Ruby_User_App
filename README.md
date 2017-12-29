@@ -1,6 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails sample application
 
-This is the sample application for Ruby on Rails. To investigate Forms, DB modelling, user sign up and unit tests using Rails.
+This is the sample application for Ruby on Rails making use of DB modelling, user handling, forms and TDD using Rails.
 
 
 ## License
