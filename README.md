@@ -1,13 +1,8 @@
-# Ruby on Rails sample application
+# Ruby on Rails User application
 
 This is the sample application for Ruby on Rails making use of DB modelling, user handling, forms and TDD using Rails.
 
 
-## License
-
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
 
 ## Getting started
 
