@@ -29,4 +29,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the [Live Demo](https://powerful-hamlet-23283.herokuapp.com)
+For more information, see the [Live Site](https://tranquil-fortress-91742.herokuapp.com/)
