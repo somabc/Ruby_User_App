@@ -3,7 +3,6 @@
 This is the sample application for Ruby on Rails making use of DB modelling, user handling, forms and TDD using Rails.
 
 
-
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
