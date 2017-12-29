@@ -5,7 +5,6 @@ class PictureUploader < CarrierWave::Uploader::Base
 
   if Rails.env.production?
     storage :fog
-    config.fog_provider = 'fog/aws'
   else
     storage :file
   end
